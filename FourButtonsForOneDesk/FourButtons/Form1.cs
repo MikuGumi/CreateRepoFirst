@@ -16,23 +16,14 @@ namespace FourButtons
         {
             InitializeComponent();
         }
-        
 
-
-
-
-
-
-
-
-
-
-
-
-
-        private void button3_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            button3.Text = "123";
+            button2.Text = "羅鎮元";
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Text = ("潘同甯");
         }
     }
 }

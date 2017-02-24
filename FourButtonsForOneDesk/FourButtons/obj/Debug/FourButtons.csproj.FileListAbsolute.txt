@@ -1,0 +1,9 @@
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.exe.config
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.exe
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.pdb
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.csprojResolveAssemblyReference.cache
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.Form1.resources
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.Properties.Resources.resources
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.csproj.GenerateResource.Cache
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.exe
+C:\buildschooldata\trytest\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.pdb

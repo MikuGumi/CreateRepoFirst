@@ -16,5 +16,23 @@ namespace FourButtons
         {
             InitializeComponent();
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.Text = "123";
+        }
     }
 }

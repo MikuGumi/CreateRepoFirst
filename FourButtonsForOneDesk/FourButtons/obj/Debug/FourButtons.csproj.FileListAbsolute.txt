@@ -1,0 +1,9 @@
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.exe.config
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.exe
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\bin\Debug\FourButtons.pdb
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.csprojResolveAssemblyReference.cache
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.Form1.resources
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.Properties.Resources.resources
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.csproj.GenerateResource.Cache
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.exe
+C:\Users\lulu\Desktop\123\FourButtonsForOneDesk\FourButtons\obj\Debug\FourButtons.pdb
